@@ -1,0 +1,16 @@
+/* Main section */
+main {
+    padding:15px;
+}
+main h2{
+   
+    text-transform: capitalize;
+}
+
+#jumbodiv{
+padding-top:1em;
+}
+
+.list-group-item{
+    outline:1px solid #e6e6e6;
+}

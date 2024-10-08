@@ -1,0 +1,10 @@
+/* Footer section */
+footer{
+    outline: 1px solid #d3d2d2;
+    padding-top:10px;
+    padding-bottom:5px;
+    text-align: center;
+}
+footer p{
+    font-size:13px;
+}
